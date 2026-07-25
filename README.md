@@ -1,4 +1,4 @@
-# Hospital Analysis Dashboard
+# Hospital-Analysis-Dashboard
 # Project Overview
 The Hospital Analytics project is an end-to-end data analytics solution that transforms raw healthcare operational data into
 meaningful business insights. The project combines information about patients, doctors, appointments, treatments, and
