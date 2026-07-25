@@ -25,7 +25,7 @@ category, and payment flag.
 
 # End to End workflow 
 - Data cleaning , transformation, add new measurable columns.
-- Perform calculation like ( min, max, average, sum, less ten , grater then etc) by the help of SQL.
+- Perform calculation like ( min, max, average, sum, Total Revenues , Profits etc) by the help of SQL.
 - Data modeling (power BI)
 - Calculates Measures
 - Preapare Dashbord
