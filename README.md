@@ -29,3 +29,23 @@ costs, revenue performance, and payment collection through interactive Power BI 
 - Calculates Measures
 - Preapare Dashbord
 - Find Some good insights that will help in business growth .
+
+# Tools and Technology
+- Excel(data cleaning)
+- SQL(database design,  Calculation)
+- Power BI( DAX, Dashbord, Data Modeling)
+- SQL server Manager
+- Kaggle
+- Github
+  
+
+
+
+
+
+
+
+
+
+
+  
