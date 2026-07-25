@@ -22,3 +22,11 @@ category, and payment flag.
 - doctor.csv
 - patients.csv
 - treatment.csv
+
+# End to End workfow 
+- Data cleaning , transformation, add new masurable colums.
+- Perform calculation like ( min, max, average, sum, less ten , grater then etc) by the help of SQL.
+- Data modeling (power BI)
+- Calculates Measures
+- Preapare Dashbord
+- Find Some good insights that will help in business growth .
