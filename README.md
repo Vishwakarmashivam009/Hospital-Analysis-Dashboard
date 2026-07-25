@@ -24,7 +24,7 @@ category, and payment flag.
 - treatment.csv
 
 # End to End workflow 
-- Data cleaning , transformation, add new masurable colums.
+- Data cleaning , transformation, add new measurable columns.
 - Perform calculation like ( min, max, average, sum, less ten , grater then etc) by the help of SQL.
 - Data modeling (power BI)
 - Calculates Measures
