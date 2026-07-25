@@ -57,7 +57,13 @@ costs, revenue performance, and payment collection through interactive Power BI 
 # Project Summary
 <img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/36cf6b61-9480-4e34-969f-274a1beb3f8d" />
 
-
+# Conclusion
+This project demonstrates the complete workflow of a data analyst: starting with raw data, storing and transforming it using
+SQL, creating a reliable analytical model, developing DAX measures, building interactive dashboards, and converting data
+into business recommendations.
+The project is suitable for a data analyst portfolio because it demonstrates both technical skills and business thinking. The
+strongest portfolio presentation will include the PBIX file, SQL scripts, raw datasets, dashboard screenshots, and this
+project overview document.
 
 
 
