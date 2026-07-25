@@ -23,7 +23,7 @@ category, and payment flag.
 - patients.csv
 - treatment.csv
 
-# End to End workfow 
+# End to End workflow 
 - Data cleaning , transformation, add new masurable colums.
 - Perform calculation like ( min, max, average, sum, less ten , grater then etc) by the help of SQL.
 - Data modeling (power BI)
