@@ -8,13 +8,12 @@ costs, revenue performance, and payment collection through interactive Power BI 
 
 #  Project Objectives
 - Integrate healthcare datasets into a structured SQL Server database.
-- Clean and prepare raw data for analysis.
-- Create analytical columns such as age group, experience category, appointment quarter, visit day type, revenue
-  category, and payment flag.
-- Build a reliable relational data model in Power BI.
+-  Clean and prepare raw data for analysis.
+-  Create analytical columns such as age group, experience category, appointment quarter, visit day type, revenue category, and payment flag.
+-  Build a reliable relational data model in Power BI.
 - Create reusable DAX measures for KPIs and business analysis.
-- Design an interactive multi-page Power BI dashboard.
-- Generate actionable insights for operational and financial decision-making 
+-  Design an interactive multi-page Power BI dashboard.
+-  Generate actionable insights for operational and financial decision-making    
 
 # Dataset Used
 - appointments.csv
